@@ -46,6 +46,7 @@ Projeto da Sprint 4 - Arquitetura Orientada a Serviços e Web Services.
 
 
 ## Estrutura do Projeto 
+<img width="515" height="1006" alt="image" src="https://github.com/user-attachments/assets/afd90bd8-4b9c-4210-a251-cf2d57584608" />
 
 
 ## ▶️ Como Executar
@@ -84,6 +85,10 @@ Acesse:
 
 <img width="910" height="370" alt="image" src="https://github.com/user-attachments/assets/f01036de-fb5a-4c26-8b95-86bdca3a254f" />
 
+
+---
+
+<img width="1484" height="894" alt="image" src="https://github.com/user-attachments/assets/c19d95c4-a5d9-44c4-a28b-d53c50c972e7" />
 
 
 

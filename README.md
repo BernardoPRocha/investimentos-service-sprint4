@@ -3,7 +3,7 @@
 Projeto da Sprint 4 - Arquitetura Orientada a Serviços e Web Services.
 
 ## LINK DO GITHUB 
-- Acesse: `https://github.com/BernardoPRocha/investimentos-service-sprint4.git`
+- [Link para o Github](https://github.com/BernardoPRocha/investimentos-service-sprint4.git)
 
 ## 📌 Integrantes do Grupo
 1. Bernardo Pinto Rocha - RM99209  
